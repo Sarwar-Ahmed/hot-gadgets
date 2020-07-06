@@ -1,0 +1,41 @@
+section{
+    margin-bottom: 50px;
+}
+.buy-now-button{
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+    padding: 5px 15px;
+}
+.cards-head a{
+    margin-bottom: 25px;
+    color: orange;
+    font-weight: bold;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 20px lightgray;
+    padding: 2%;
+}
+.categories{
+    border-bottom: 5px solid orange;
+}
+.place-order img{
+    width: 100%;
+}
+.bag-cat img{
+    width: 100%;
+}
+.beauty-cat img{
+    width: 100%;
+}
+
+.shoes-cat img{
+    width: 100%;
+}
+
+.bag-cat,.beauty-cat,.shoes-cat{
+    box-shadow: 5px 5px 20px lightgray;
+    padding: 5%;
+}
