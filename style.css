@@ -7,6 +7,8 @@ section{
     color: white;
     padding: 5px 15px;
 }
+.carousel-indicators{
+}
 .cards-head a{
     margin-bottom: 25px;
     color: orange;
@@ -18,8 +20,11 @@ section{
     box-shadow: 5px 5px 20px lightgray;
     padding: 2%;
 }
-.categories{
-    border-bottom: 5px solid orange;
+hr{
+    width: 120px;
+    height: 5px;
+    background-color: orange;
+    border-radius: 10px;
 }
 .place-order img{
     width: 100%;
